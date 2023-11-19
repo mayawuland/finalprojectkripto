@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "vigenere-cipher": "^1.0.0"
+  }
+}
